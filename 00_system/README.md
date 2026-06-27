@@ -7,12 +7,13 @@
 ## 目前文件
 
 - [標籤系統.md](./標籤系統.md)
+- [digest格式.md](./digest格式.md)
+- [case_card格式.md](./case_card格式.md)
+- [ntmy_story_seed格式.md](./ntmy_story_seed格式.md)
 
 ## 後續預計補充
 
-- `digest格式.md`：定義每篇逐字稿整理成 AI digest 的格式。
-- `case_card格式.md`：定義真實案例如何整理成可查用案例卡。
-- `ntmy_story_seed格式.md`：定義教育／家庭案例如何轉成 NTMY 故事種子。
+- `concept_card格式.md`：定義跨課程核心概念如何整理成概念卡。
 - `家庭教育判斷總索引.md`：建立從問題現象到資料查找的決策入口。
 
 ## 使用原則
@@ -21,3 +22,4 @@
 2. 原始逐字稿不直接改寫，只在加工層做 digest 或 case card。
 3. `study` 的資料分類標籤與 NTMY 的 responseVector 分開管理。
 4. 遇到新概念先放 `candidate_tags`，不要立刻新增正式標籤。
+5. 不是每份資料都需要產出所有加工層；依內容判斷要做 digest、case card、concept card、family playbook 或 NTMY story seed。
